@@ -1,0 +1,11 @@
+Project: Password Strength Checker
+Type: Cybersecurity Tool
+
+This tool analyzes passwords based on length, complexity,
+and character variety. It classifies them as WEAK, MEDIUM,
+or STRONG and provides improvement suggestions.
+
+This helps users create secure passwords and prevent
+brute-force and dictionary attacks.
+
+Developed using Python in Pydroid (mobile environment).
